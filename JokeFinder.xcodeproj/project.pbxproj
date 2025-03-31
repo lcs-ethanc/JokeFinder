@@ -63,12 +63,12 @@
 		444653D92D97007B00AD1CF3 /* JokeFinder */ = {
 			isa = PBXGroup;
 			children = (
+				444653D82D97007B00AD1CF3 /* JokeFinderApp.swift */,
 				444653E02D9700AC00AD1CF3 /* ViewModel */,
 				444653DF2D9700A600AD1CF3 /* Views */,
 				444653DE2D97009F00AD1CF3 /* Model */,
 				444653D52D97007B00AD1CF3 /* Preview Content */,
 				444653D62D97007B00AD1CF3 /* Assets.xcassets */,
-				444653D82D97007B00AD1CF3 /* JokeFinderApp.swift */,
 			);
 			path = JokeFinder;
 			sourceTree = "<group>";
